@@ -1,5 +1,7 @@
-print('Das sind schon zu viele Versuche die ich probiert habe :(')
+print("Willkommen zum Spitznamen Spiel")
 
-input("Hast du auch Kopfschmerzen von den ganzen Sachen?\n")
+Stadt = (input("In welcher Stadt bist du aufgewachsen?\n"))
 
-print("Ist nachvollziehbar")
+Tier = (input("Wie hieß dein erstes Haustier?\n"))
+
+print("Dein Spitzname lautet:" + Stadt + " " + Tier)
