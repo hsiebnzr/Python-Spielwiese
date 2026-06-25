@@ -10,4 +10,4 @@ Das Programm führt den Nutzer durch eine kleine Geschichte und stellt ihn immer
 
 ## 💡 Mein Lernfortschritt bei diesem Projekt
 In diesem Projekt ging es hauptsächlich um sogenannte bedingte Anweisungen (`if`, `elif` und `else`). Diese Kontrollstrukturen waren für mich sehr intuitiv und einfach zu verstehen. 
-Es ist eine faszinierende und eigentlich ganz simple Art, ein Programm zu steuern, und die Umsetzung dieses Spiels fiel mir wirklich leicht!
+Es ist eine faszinierende und eigentlich ganz simple Art, ein Programm zu steuern, und die Umsetzung dieses Spiels fiel mir wirklich leicht.
