@@ -1,4 +1,4 @@
-# Tag 4: Schatzsuche 🏴‍☠️
+# Tag 3: Schatzsuche 🏴‍☠️
 
 Ein weiteres Projekt meiner "100 Days of Code" Challenge! Dieses Mal habe ich ein textbasiertes Abenteuerspiel programmiert, bei dem der Spieler clevere Entscheidungen treffen muss, um einen verborgenen Schatz zu finden.
 
