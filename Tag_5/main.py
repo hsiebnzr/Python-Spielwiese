@@ -9,7 +9,6 @@ nr_buchstabe = int(input("How many letters would you like in your password?\n"))
 nr_symbole = int(input(f"How many symbols would you like?\n"))
 nr_nummer = int(input(f"How many numbers would you like?\n"))
 
-
 # LEICHTES LEVEL:
 # passwort = ""
 #
