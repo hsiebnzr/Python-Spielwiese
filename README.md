@@ -12,4 +12,4 @@ Jeder Ordner steht für einen Tag aus dem Kurs (`Tag_1`, `Tag_2`, ...). Drin lie
 
 ## Stand
 
-Ich poste regelmäßig die Projekte hier in diesem Repository.
+Ich poste die Projekte hier in diesem Repository.
