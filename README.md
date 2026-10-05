@@ -4,7 +4,7 @@ Hier landen Projekte, die ich in Python programmiere. Ich schreibe sie selbst, l
 
 ## Worum geht's
 
-Das ist kein Kurs-Repository und kein Portfolio-Showcase, sondern meine Spielwiese: Ich probiere Dinge aus, baue kleine Programme und lerne so Python. Ab und zu kommen neue Projekte dazu.
+Ich probiere Dinge aus, baue kleine Programme und lerne so Python. Ab und zu kommen neue Projekte dazu.
 
 ## Struktur
 
